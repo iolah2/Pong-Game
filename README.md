@@ -33,10 +33,10 @@ Some features are still in development and needs to be tweeked a little but this
 <img src="https://github.com/norbert-dev/Pong-Game/blob/main/indev.jpg">
 
 ## Code snippet pic
-<img src="https://github.com/norbert-dev/VulnHUB/blob/main/BlueSky1/images/vhlogo.png" height="300px" width="500px">
+<img src="https://github.com/norbert-dev/Pong-Game/blob/main/Code.jpg">
 
 ## Current Game state pic
-<img src="https://github.com/norbert-dev/VulnHUB/blob/main/BlueSky1/images/vhlogo.png" height="300px" width="500px">
+<img src="https://github.com/norbert-dev/Pong-Game/blob/main/game.jpg">
 
 
 # Under Development Tasks
