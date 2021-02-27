@@ -30,7 +30,7 @@ Some features are still in development and needs to be tweeked a little but this
 # Dev-Images
 
 ## In development stage pic
-<img src="https://github.com/norbert-dev/Pong-Game/blob/main/indev.jpg" height="600px" width="500px">
+<img src="https://github.com/norbert-dev/Pong-Game/blob/main/indev.jpg">
 
 ## Code snippet pic
 <img src="https://github.com/norbert-dev/VulnHUB/blob/main/BlueSky1/images/vhlogo.png" height="300px" width="500px">
